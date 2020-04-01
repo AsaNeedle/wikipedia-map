@@ -24,7 +24,7 @@ science_was_influenced_section = infobox.find("th", string="Influenced")
 influences = []
 if academic_did_influence_section != None:
   influences = academic_did_influence_section.parent.find("ul", "NavContent").find_all("a")
-  
+
 elif science_did_influence_section != None:
   influences = science_did_influence_section.next_sibling.find_all("a")
 
@@ -57,4 +57,4 @@ for i in influences_nodes:
 for i in influenced_nodes:
   graph.add_edge(pydot.Edge(root, i))
 
-graph.write_png("foucault.png")
+graph.write_png("./static/img/marcuse.png")
