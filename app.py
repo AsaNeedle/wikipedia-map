@@ -10,5 +10,5 @@ def hello_world(name=None):
 def action():
     thinker = request.form.get('thinker')
     create_graph(thinker)
-    thinker = thinker.replace(" ", "_")
-    return render_template('action.html', thinker=thinker)
+    thinker_underscore = thinker.replace(" ", "_")
+    return render_template('action.html', thinker=thinker, thinker_underscore=thinker_underscore)
