@@ -1,0 +1,11 @@
+<html> 
+<p> The thinker's name is {{ thinker }} </p> 
+{% if thinker %}
+<div>Hello {{thinker}}</div>
+<div>Here's your map!</div>
+<img src="/static/img/{{thinker}}.png" />
+{% else %}
+<div>Hello world</div>
+{% endif %}
+</html>
+
