@@ -15,6 +15,17 @@
     <!--[if lt IE 7]>
       <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
     <![endif]-->
+    {% if error %}
+    <div class="error">{{error}}</div>
+    {% elif disambiguation_options %}
+    <p>Ambiguous page name, options are:</p>
+    <ul>
+      {% for opt in disambiguation_options %}
+      <li>{{opt}}</li>
+      {% endfor %}
+    </ul>
+    {% endif %}
+
     <div>Enter the name of a thinker here to get their influences and who they influenced.</div>
     <form action="/action" method="POST">
       <input type="text" name="thinker" placeholder="Enter a thinker's name">

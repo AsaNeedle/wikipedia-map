@@ -1,0 +1,30 @@
+digraph G {
+Bacon [URL="https://en.wikipedia.org/wiki/Francis_Bacon"];
+Bacon -> "John Locke";
+Grotius [URL="https://en.wikipedia.org/wiki/Hugo_Grotius"];
+Grotius -> "John Locke";
+Descartes [URL="https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes"];
+Descartes -> "John Locke";
+Filmer [URL="https://en.wikipedia.org/wiki/Robert_Filmer"];
+Filmer -> "John Locke";
+Pufendorf [URL="https://en.wikipedia.org/wiki/Samuel_von_Pufendorf"];
+Pufendorf -> "John Locke";
+Hobbes [URL="https://en.wikipedia.org/wiki/Thomas_Hobbes"];
+Hobbes -> "John Locke";
+Masham [URL="https://en.wikipedia.org/wiki/Damaris_Cudworth_Masham"];
+Masham -> "John Locke";
+Berkeley [URL="https://en.wikipedia.org/wiki/George_Berkeley"];
+"John Locke" -> Berkeley;
+Hume [URL="https://en.wikipedia.org/wiki/David_Hume"];
+"John Locke" -> Hume;
+Jefferson [URL="https://en.wikipedia.org/wiki/Thomas_Jefferson"];
+"John Locke" -> Jefferson;
+Kant [URL="https://en.wikipedia.org/wiki/Immanuel_Kant"];
+"John Locke" -> Kant;
+Rousseau [URL="https://en.wikipedia.org/wiki/J._J._Rousseau"];
+"John Locke" -> Rousseau;
+Shaftesbury [URL="https://en.wikipedia.org/wiki/Anthony_Ashley-Cooper,_3rd_Earl_of_Shaftesbury"];
+"John Locke" -> Shaftesbury;
+Voltaire [URL="https://en.wikipedia.org/wiki/Voltaire"];
+"John Locke" -> Voltaire;
+}

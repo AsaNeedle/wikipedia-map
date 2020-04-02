@@ -1,7 +1,8 @@
 <html> 
 {% if thinker %}
 <p> This is the map of influences for {{ thinker }} </p> 
-<img src="/static/img/{{thinker_underscore}}.png" />
+{{ svg | safe }}
+<!-- <img src="/static/img/{{thinker_underscore}}.svg" /> -->
 {% else %}
 <div>Hello world</div>
 {% endif %}

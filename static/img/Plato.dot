@@ -1,0 +1,20 @@
+digraph G {
+Socrates [URL="https://en.wikipedia.org/wiki/Socrates"];
+Socrates -> Plato;
+Parmenides [URL="https://en.wikipedia.org/wiki/Parmenides"];
+Parmenides -> Plato;
+Pythagoras [URL="https://en.wikipedia.org/wiki/Pythagoras"];
+Pythagoras -> Plato;
+Diotima [URL="https://en.wikipedia.org/wiki/Diotima_of_Mantinea"];
+Diotima -> Plato;
+Heraclitus [URL="https://en.wikipedia.org/wiki/Heraclitus"];
+Heraclitus -> Plato;
+"Western philosophy" [URL="https://en.wikipedia.org/wiki/Western_philosophy"];
+Plato -> "Western philosophy";
+Aristotle [URL="https://en.wikipedia.org/wiki/Aristotle"];
+Plato -> Aristotle;
+Plotinus [URL="https://en.wikipedia.org/wiki/Plotinus"];
+Plato -> Plotinus;
+Augustine [URL="https://en.wikipedia.org/wiki/Augustine_of_Hippo"];
+Plato -> Augustine;
+}
