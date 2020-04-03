@@ -17,4 +17,4 @@ def action():
     except wikipedia.exceptions.DisambiguationError as e:
         return render_template('main.html', disambiguation_options=e.options)
     except Exception as e:
-        return render_template('main.html', error="Sorry, I don't them 🤷‍♂️")
+        return render_template('main.html', error="Sorry 🤷‍♂️, I don't know them. Try someone else!")
