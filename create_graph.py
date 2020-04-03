@@ -12,13 +12,7 @@ def create_graph(input_name):
   influences_nodes = []
   influenced_nodes = []
 
-  # try:
   response = wikipedia.WikipediaPage(input_name)
-  # except wikipedia.exceptions.DisambiguationError as e:
-  #   raise e
-  # except Exception as e:
-  #   suggestions = wikipedia.suggest(input_name)
-  #   raise Exception("No such article.", suggestions)
 
   html = BeautifulSoup(response.html(), 'html.parser')
   infobox = html.find("table", "infobox")
@@ -51,7 +45,7 @@ def create_graph(input_name):
       cur_influenced = i.string
       if cur_influenced[0] != '[':
         if cur_influenced[:7] == "List of":
-          influenced_nodes.append((f'Literally all{cur_influenced[7:]}', ''))
+          influenced_nodes.append((f'Literally all{cur_influenced[7:]}', i.get("href")))
         else:
           influenced_nodes.append((cur_influenced, i.get("href")))
   if not influences and not influenced:
