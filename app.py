@@ -4,6 +4,11 @@ import wikipedia
 app = Flask(__name__)
 
 @app.route('/')
+def main():
+    return render_template("main.html")
+@app.route('/about')
+def about():
+    return render_template("about.html")
 @app.route('/thinker/<name>')
 def hello_world(name=None):
     return render_template("main.html")
@@ -18,3 +23,6 @@ def action():
         return render_template('main.html', disambiguation_options=e.options)
     except Exception as e:
         return render_template('main.html', error="Sorry 🤷‍♂️, I don't know them. Try someone else!")
+
+if __name__ == '__main__':
+    app.run()

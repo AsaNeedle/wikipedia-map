@@ -18,17 +18,17 @@
 </a>
 </g>
 </g>
-<!-- Marx -->
+<!-- karl marx -->
 <g id="node2" class="node">
-<title>Marx</title>
-<ellipse fill="none" stroke="black" cx="2730.2" cy="-90" rx="29.03" ry="18"/>
-<text text-anchor="middle" x="2730.2" y="-85.8" font-family="Times,serif" font-size="14.00">Marx</text>
+<title>karl marx</title>
+<ellipse fill="none" stroke="black" cx="2730.2" cy="-90" rx="44.48" ry="18"/>
+<text text-anchor="middle" x="2730.2" y="-85.8" font-family="Times,serif" font-size="14.00">karl marx</text>
 </g>
-<!-- G.W.F. Hegel&#45;&gt;Marx -->
+<!-- G.W.F. Hegel&#45;&gt;karl marx -->
 <g id="edge1" class="edge">
-<title>G.W.F. Hegel&#45;&gt;Marx</title>
-<path fill="none" stroke="black" d="M99.01,-149.07C107.59,-147.01 116.64,-145.16 125.2,-144 389.9,-108.2 2383.76,-93.34 2690.61,-91.26"/>
-<polygon fill="black" stroke="black" points="2690.83,-94.76 2700.81,-91.19 2690.78,-87.76 2690.83,-94.76"/>
+<title>G.W.F. Hegel&#45;&gt;karl marx</title>
+<path fill="none" stroke="black" d="M99.01,-149.07C107.59,-147.01 116.64,-145.16 125.2,-144 385.99,-108.73 2325.22,-93.79 2675.92,-91.36"/>
+<polygon fill="black" stroke="black" points="2676.09,-94.86 2686.06,-91.29 2676.04,-87.86 2676.09,-94.86"/>
 </g>
 <!-- Literally all Marxists -->
 <g id="node35" class="node">
@@ -39,9 +39,9 @@
 </a>
 </g>
 </g>
-<!-- Marx&#45;&gt;Literally all Marxists -->
+<!-- karl marx&#45;&gt;Literally all Marxists -->
 <g id="edge34" class="edge">
-<title>Marx&#45;&gt;Literally all Marxists</title>
+<title>karl marx&#45;&gt;Literally all Marxists</title>
 <path fill="none" stroke="black" d="M2730.2,-71.7C2730.2,-63.98 2730.2,-54.71 2730.2,-46.11"/>
 <polygon fill="black" stroke="black" points="2733.7,-46.1 2730.2,-36.1 2726.7,-46.1 2733.7,-46.1"/>
 </g>
@@ -54,11 +54,11 @@
 </a>
 </g>
 </g>
-<!-- Ludwig Feuerbach&#45;&gt;Marx -->
+<!-- Ludwig Feuerbach&#45;&gt;karl marx -->
 <g id="edge2" class="edge">
-<title>Ludwig Feuerbach&#45;&gt;Marx</title>
-<path fill="none" stroke="black" d="M264.66,-148.94C275.38,-146.95 286.61,-145.15 297.2,-144 788.87,-90.46 2416.16,-90.52 2690.7,-90.92"/>
-<polygon fill="black" stroke="black" points="2690.97,-94.42 2700.98,-90.94 2690.98,-87.42 2690.97,-94.42"/>
+<title>Ludwig Feuerbach&#45;&gt;karl marx</title>
+<path fill="none" stroke="black" d="M264.66,-148.94C275.38,-146.95 286.61,-145.15 297.2,-144 780.5,-91.37 2361.08,-90.53 2675.52,-90.9"/>
+<polygon fill="black" stroke="black" points="2675.73,-94.4 2685.74,-90.91 2675.74,-87.4 2675.73,-94.4"/>
 </g>
 <!-- Charles Darwin -->
 <g id="node4" class="node">
@@ -69,11 +69,11 @@
 </a>
 </g>
 </g>
-<!-- Charles Darwin&#45;&gt;Marx -->
+<!-- Charles Darwin&#45;&gt;karl marx -->
 <g id="edge3" class="edge">
-<title>Charles Darwin&#45;&gt;Marx</title>
-<path fill="none" stroke="black" d="M418.36,-149.02C427.84,-146.99 437.79,-145.16 447.2,-144 906.35,-87.21 2425.84,-89.92 2690.67,-90.84"/>
-<polygon fill="black" stroke="black" points="2690.94,-94.34 2700.95,-90.88 2690.96,-87.34 2690.94,-94.34"/>
+<title>Charles Darwin&#45;&gt;karl marx</title>
+<path fill="none" stroke="black" d="M418.36,-149.02C427.84,-146.99 437.79,-145.16 447.2,-144 898.27,-88.21 2372.67,-89.84 2675.53,-90.79"/>
+<polygon fill="black" stroke="black" points="2675.79,-94.29 2685.8,-90.82 2675.81,-87.29 2675.79,-94.29"/>
 </g>
 <!-- Charles Babbage -->
 <g id="node5" class="node">
@@ -84,11 +84,11 @@
 </a>
 </g>
 </g>
-<!-- Charles Babbage&#45;&gt;Marx -->
+<!-- Charles Babbage&#45;&gt;karl marx -->
 <g id="edge4" class="edge">
-<title>Charles Babbage&#45;&gt;Marx</title>
-<path fill="none" stroke="black" d="M575.27,-148.96C585.12,-146.96 595.45,-145.16 605.2,-144 1031.27,-93.3 2436.61,-90.98 2690.65,-90.98"/>
-<polygon fill="black" stroke="black" points="2690.88,-94.48 2700.88,-90.98 2690.88,-87.48 2690.88,-94.48"/>
+<title>Charles Babbage&#45;&gt;karl marx</title>
+<path fill="none" stroke="black" d="M575.27,-148.96C585.12,-146.96 595.45,-145.16 605.2,-144 1023.51,-94.22 2385.79,-91.08 2675.65,-90.98"/>
+<polygon fill="black" stroke="black" points="2675.91,-94.48 2685.91,-90.98 2675.9,-87.48 2675.91,-94.48"/>
 </g>
 <!-- Aristotle -->
 <g id="node6" class="node">
@@ -99,11 +99,11 @@
 </a>
 </g>
 </g>
-<!-- Aristotle&#45;&gt;Marx -->
+<!-- Aristotle&#45;&gt;karl marx -->
 <g id="edge5" class="edge">
-<title>Aristotle&#45;&gt;Marx</title>
-<path fill="none" stroke="black" d="M684.69,-149.34C691.34,-147.17 698.43,-145.21 705.2,-144 907.2,-107.88 2423.98,-93.57 2690.33,-91.32"/>
-<polygon fill="black" stroke="black" points="2690.71,-94.82 2700.68,-91.24 2690.65,-87.82 2690.71,-94.82"/>
+<title>Aristotle&#45;&gt;karl marx</title>
+<path fill="none" stroke="black" d="M684.69,-149.34C691.34,-147.17 698.43,-145.21 705.2,-144 903.75,-108.5 2372.56,-94.06 2675.61,-91.45"/>
+<polygon fill="black" stroke="black" points="2675.92,-94.95 2685.89,-91.36 2675.86,-87.95 2675.92,-94.95"/>
 </g>
 <!-- Epicurus -->
 <g id="node7" class="node">
@@ -114,11 +114,11 @@
 </a>
 </g>
 </g>
-<!-- Epicurus&#45;&gt;Marx -->
+<!-- Epicurus&#45;&gt;karl marx -->
 <g id="edge6" class="edge">
-<title>Epicurus&#45;&gt;Marx</title>
-<path fill="none" stroke="black" d="M786.03,-149.43C792.88,-147.23 800.22,-145.23 807.2,-144 998.7,-110.21 2433.34,-94.04 2690.72,-91.39"/>
-<polygon fill="black" stroke="black" points="2690.78,-94.89 2700.74,-91.29 2690.7,-87.89 2690.78,-94.89"/>
+<title>Epicurus&#45;&gt;karl marx</title>
+<path fill="none" stroke="black" d="M786.03,-149.43C792.88,-147.23 800.22,-145.23 807.2,-144 995.23,-110.82 2381.72,-94.63 2675.58,-91.55"/>
+<polygon fill="black" stroke="black" points="2676,-95.04 2685.96,-91.44 2675.93,-88.04 2676,-95.04"/>
 </g>
 <!-- Jean&#45;Jacques Rousseau -->
 <g id="node8" class="node">
@@ -129,11 +129,11 @@
 </a>
 </g>
 </g>
-<!-- Jean&#45;Jacques Rousseau&#45;&gt;Marx -->
+<!-- Jean&#45;Jacques Rousseau&#45;&gt;karl marx -->
 <g id="edge7" class="edge">
-<title>Jean&#45;Jacques Rousseau&#45;&gt;Marx</title>
-<path fill="none" stroke="black" d="M972.23,-148.98C984.78,-147.01 997.87,-145.21 1010.2,-144 1351.73,-110.43 2465.47,-94.43 2690.39,-91.5"/>
-<polygon fill="black" stroke="black" points="2690.77,-94.99 2700.72,-91.37 2690.68,-88 2690.77,-94.99"/>
+<title>Jean&#45;Jacques Rousseau&#45;&gt;karl marx</title>
+<path fill="none" stroke="black" d="M972.23,-148.98C984.78,-147.01 997.87,-145.21 1010.2,-144 1344.88,-111.1 2421.11,-95.08 2675.8,-91.69"/>
+<polygon fill="black" stroke="black" points="2675.96,-95.19 2685.91,-91.56 2675.87,-88.19 2675.96,-95.19"/>
 </g>
 <!-- Baruch Spinoza -->
 <g id="node9" class="node">
@@ -144,11 +144,11 @@
 </a>
 </g>
 </g>
-<!-- Baruch Spinoza&#45;&gt;Marx -->
+<!-- Baruch Spinoza&#45;&gt;karl marx -->
 <g id="edge8" class="edge">
-<title>Baruch Spinoza&#45;&gt;Marx</title>
-<path fill="none" stroke="black" d="M1131.77,-149.01C1141.13,-147.01 1150.93,-145.2 1160.2,-144 1469.42,-104.1 2478.64,-93.2 2690.83,-91.32"/>
-<polygon fill="black" stroke="black" points="2690.92,-94.82 2700.89,-91.23 2690.86,-87.82 2690.92,-94.82"/>
+<title>Baruch Spinoza&#45;&gt;karl marx</title>
+<path fill="none" stroke="black" d="M1131.77,-149.01C1141.13,-147.01 1150.93,-145.2 1160.2,-144 1462.54,-104.99 2434.07,-93.69 2675.5,-91.46"/>
+<polygon fill="black" stroke="black" points="2675.81,-94.96 2685.78,-91.36 2675.74,-87.96 2675.81,-94.96"/>
 </g>
 <!-- Jean Charles Léonard de Sismondi -->
 <g id="node10" class="node">
@@ -159,11 +159,11 @@
 </a>
 </g>
 </g>
-<!-- Jean Charles Léonard de Sismondi&#45;&gt;Marx -->
+<!-- Jean Charles Léonard de Sismondi&#45;&gt;karl marx -->
 <g id="edge9" class="edge">
-<title>Jean Charles Léonard de Sismondi&#45;&gt;Marx</title>
-<path fill="none" stroke="black" d="M1394.14,-148.93C1410.78,-147.05 1427.99,-145.3 1444.2,-144 1934.65,-104.6 2532.8,-93.77 2690.54,-91.51"/>
-<polygon fill="black" stroke="black" points="2690.76,-95.01 2700.71,-91.37 2690.66,-88.01 2690.76,-95.01"/>
+<title>Jean Charles Léonard de Sismondi&#45;&gt;karl marx</title>
+<path fill="none" stroke="black" d="M1394.14,-148.93C1410.78,-147.05 1427.99,-145.3 1444.2,-144 1920.55,-105.73 2498.52,-94.41 2675.87,-91.72"/>
+<polygon fill="black" stroke="black" points="2676.04,-95.22 2685.99,-91.57 2675.94,-88.22 2676.04,-95.22"/>
 </g>
 <!-- Friedrich Wilhelm Schulz -->
 <g id="node11" class="node">
@@ -174,11 +174,11 @@
 </a>
 </g>
 </g>
-<!-- Friedrich Wilhelm Schulz&#45;&gt;Marx -->
+<!-- Friedrich Wilhelm Schulz&#45;&gt;karl marx -->
 <g id="edge10" class="edge">
-<title>Friedrich Wilhelm Schulz&#45;&gt;Marx</title>
-<path fill="none" stroke="black" d="M1624.77,-148.99C1637.85,-147.07 1651.42,-145.3 1664.2,-144 2063.5,-103.33 2550.26,-93.54 2690.61,-91.49"/>
-<polygon fill="black" stroke="black" points="2690.92,-94.99 2700.87,-91.34 2690.82,-87.99 2690.92,-94.99"/>
+<title>Friedrich Wilhelm Schulz&#45;&gt;karl marx</title>
+<path fill="none" stroke="black" d="M1624.77,-148.99C1637.85,-147.07 1651.42,-145.3 1664.2,-144 2050.29,-104.68 2518.14,-94.22 2675.55,-91.72"/>
+<polygon fill="black" stroke="black" points="2675.96,-95.21 2685.91,-91.56 2675.85,-88.21 2675.96,-95.21"/>
 </g>
 <!-- David Ricardo -->
 <g id="node12" class="node">
@@ -189,11 +189,11 @@
 </a>
 </g>
 </g>
-<!-- David Ricardo&#45;&gt;Marx -->
+<!-- David Ricardo&#45;&gt;karl marx -->
 <g id="edge11" class="edge">
-<title>David Ricardo&#45;&gt;Marx</title>
-<path fill="none" stroke="black" d="M1779.28,-149.16C1788.14,-147.15 1797.42,-145.29 1806.2,-144 2145.98,-93.98 2562.5,-90.54 2690.76,-90.77"/>
-<polygon fill="black" stroke="black" points="2690.87,-94.27 2700.88,-90.79 2690.89,-87.27 2690.87,-94.27"/>
+<title>David Ricardo&#45;&gt;karl marx</title>
+<path fill="none" stroke="black" d="M1779.28,-149.16C1788.14,-147.15 1797.42,-145.29 1806.2,-144 2133.43,-95.83 2531.85,-90.86 2675.39,-90.76"/>
+<polygon fill="black" stroke="black" points="2675.68,-94.26 2685.68,-90.76 2675.68,-87.26 2675.68,-94.26"/>
 </g>
 <!-- Adam Smith -->
 <g id="node13" class="node">
@@ -204,11 +204,11 @@
 </a>
 </g>
 </g>
-<!-- Adam Smith&#45;&gt;Marx -->
+<!-- Adam Smith&#45;&gt;karl marx -->
 <g id="edge12" class="edge">
-<title>Adam Smith&#45;&gt;Marx</title>
-<path fill="none" stroke="black" d="M1909.55,-149.27C1917.64,-147.22 1926.15,-145.33 1934.2,-144 2221.45,-96.74 2573.61,-91.36 2690.45,-90.94"/>
-<polygon fill="black" stroke="black" points="2690.7,-94.44 2700.69,-90.92 2690.69,-87.44 2690.7,-94.44"/>
+<title>Adam Smith&#45;&gt;karl marx</title>
+<path fill="none" stroke="black" d="M1909.55,-149.27C1917.64,-147.22 1926.15,-145.33 1934.2,-144 2210.3,-98.58 2546.37,-91.84 2675.8,-91.02"/>
+<polygon fill="black" stroke="black" points="2675.87,-94.52 2685.85,-90.96 2675.83,-87.52 2675.87,-94.52"/>
 </g>
 <!-- Adam Ferguson -->
 <g id="node14" class="node">
@@ -219,11 +219,11 @@
 </a>
 </g>
 </g>
-<!-- Adam Ferguson&#45;&gt;Marx -->
+<!-- Adam Ferguson&#45;&gt;karl marx -->
 <g id="edge13" class="edge">
-<title>Adam Ferguson&#45;&gt;Marx</title>
-<path fill="none" stroke="black" d="M2057.62,-149.19C2066.73,-147.22 2076.23,-145.38 2085.2,-144 2313.12,-108.98 2590.16,-96.05 2691.06,-92.29"/>
-<polygon fill="black" stroke="black" points="2691.24,-95.79 2701.1,-91.93 2690.98,-88.8 2691.24,-95.79"/>
+<title>Adam Ferguson&#45;&gt;karl marx</title>
+<path fill="none" stroke="black" d="M2057.62,-149.19C2066.73,-147.22 2076.23,-145.38 2085.2,-144 2302.52,-110.61 2564.48,-97.3 2675.85,-92.88"/>
+<polygon fill="black" stroke="black" points="2676.3,-96.37 2686.16,-92.48 2676.03,-89.37 2676.3,-96.37"/>
 </g>
 <!-- Friedrich Engels -->
 <g id="node15" class="node">
@@ -234,11 +234,11 @@
 </a>
 </g>
 </g>
-<!-- Friedrich Engels&#45;&gt;Marx -->
+<!-- Friedrich Engels&#45;&gt;karl marx -->
 <g id="edge14" class="edge">
-<title>Friedrich Engels&#45;&gt;Marx</title>
-<path fill="none" stroke="black" d="M2212.57,-149.41C2222.04,-147.42 2231.9,-145.51 2241.2,-144 2407.51,-116.94 2607.94,-100.11 2691.11,-93.81"/>
-<polygon fill="black" stroke="black" points="2691.41,-97.3 2701.12,-93.06 2690.89,-90.32 2691.41,-97.3"/>
+<title>Friedrich Engels&#45;&gt;karl marx</title>
+<path fill="none" stroke="black" d="M2212.57,-149.41C2222.04,-147.42 2231.9,-145.51 2241.2,-144 2398.65,-118.39 2586.69,-101.93 2676.84,-94.91"/>
+<polygon fill="black" stroke="black" points="2677.12,-98.4 2686.82,-94.14 2676.58,-91.42 2677.12,-98.4"/>
 </g>
 <!-- Pierre&#45;Joseph Proudhon -->
 <g id="node16" class="node">
@@ -249,11 +249,11 @@
 </a>
 </g>
 </g>
-<!-- Pierre&#45;Joseph Proudhon&#45;&gt;Marx -->
+<!-- Pierre&#45;Joseph Proudhon&#45;&gt;karl marx -->
 <g id="edge15" class="edge">
-<title>Pierre&#45;Joseph Proudhon&#45;&gt;Marx</title>
-<path fill="none" stroke="black" d="M2411.39,-148.97C2492.61,-134.2 2627.55,-109.66 2692.71,-97.82"/>
-<polygon fill="black" stroke="black" points="2693.34,-101.26 2702.55,-96.03 2692.08,-94.37 2693.34,-101.26"/>
+<title>Pierre&#45;Joseph Proudhon&#45;&gt;karl marx</title>
+<path fill="none" stroke="black" d="M2411.39,-148.97C2487.87,-135.06 2611.98,-112.5 2680.61,-100.02"/>
+<polygon fill="black" stroke="black" points="2681.52,-103.41 2690.73,-98.18 2680.26,-96.52 2681.52,-103.41"/>
 </g>
 <!-- Constantin Pecqueur -->
 <g id="node17" class="node">
@@ -264,11 +264,11 @@
 </a>
 </g>
 </g>
-<!-- Constantin Pecqueur&#45;&gt;Marx -->
+<!-- Constantin Pecqueur&#45;&gt;karl marx -->
 <g id="edge16" class="edge">
-<title>Constantin Pecqueur&#45;&gt;Marx</title>
-<path fill="none" stroke="black" d="M2581.28,-146.15C2615.46,-133.5 2664.03,-115.51 2696.3,-103.56"/>
-<polygon fill="black" stroke="black" points="2697.6,-106.81 2705.76,-100.05 2695.17,-100.24 2697.6,-106.81"/>
+<title>Constantin Pecqueur&#45;&gt;karl marx</title>
+<path fill="none" stroke="black" d="M2581.28,-146.15C2613,-134.41 2657.13,-118.06 2689.11,-106.22"/>
+<polygon fill="black" stroke="black" points="2690.45,-109.45 2698.61,-102.7 2688.02,-102.89 2690.45,-109.45"/>
 </g>
 <!-- Henri de Saint&#45;Simon -->
 <g id="node18" class="node">
@@ -279,9 +279,9 @@
 </a>
 </g>
 </g>
-<!-- Henri de Saint&#45;Simon&#45;&gt;Marx -->
+<!-- Henri de Saint&#45;Simon&#45;&gt;karl marx -->
 <g id="edge17" class="edge">
-<title>Henri de Saint&#45;Simon&#45;&gt;Marx</title>
+<title>Henri de Saint&#45;Simon&#45;&gt;karl marx</title>
 <path fill="none" stroke="black" d="M2730.2,-143.7C2730.2,-135.98 2730.2,-126.71 2730.2,-118.11"/>
 <polygon fill="black" stroke="black" points="2733.7,-118.1 2730.2,-108.1 2726.7,-118.1 2733.7,-118.1"/>
 </g>
@@ -294,11 +294,11 @@
 </a>
 </g>
 </g>
-<!-- Robert Owen&#45;&gt;Marx -->
+<!-- Robert Owen&#45;&gt;karl marx -->
 <g id="edge18" class="edge">
-<title>Robert Owen&#45;&gt;Marx</title>
-<path fill="none" stroke="black" d="M2860.61,-147C2832.35,-134.87 2791.65,-117.39 2763.26,-105.2"/>
-<polygon fill="black" stroke="black" points="2764.34,-101.85 2753.77,-101.12 2761.58,-108.28 2764.34,-101.85"/>
+<title>Robert Owen&#45;&gt;karl marx</title>
+<path fill="none" stroke="black" d="M2860.61,-147C2834.18,-135.65 2796.86,-119.63 2768.92,-107.63"/>
+<polygon fill="black" stroke="black" points="2770.03,-104.29 2759.46,-103.56 2767.26,-110.73 2770.03,-104.29"/>
 </g>
 <!-- William Thompson -->
 <g id="node20" class="node">
@@ -309,11 +309,11 @@
 </a>
 </g>
 </g>
-<!-- William Thompson&#45;&gt;Marx -->
+<!-- William Thompson&#45;&gt;karl marx -->
 <g id="edge19" class="edge">
-<title>William Thompson&#45;&gt;Marx</title>
-<path fill="none" stroke="black" d="M2992.71,-148.97C2928.21,-134.73 2822.59,-111.4 2767.02,-99.13"/>
-<polygon fill="black" stroke="black" points="2767.77,-95.71 2757.25,-96.97 2766.26,-102.55 2767.77,-95.71"/>
+<title>William Thompson&#45;&gt;karl marx</title>
+<path fill="none" stroke="black" d="M2992.71,-148.97C2932.26,-135.62 2835.66,-114.29 2778.04,-101.56"/>
+<polygon fill="black" stroke="black" points="2778.61,-98.11 2768.09,-99.37 2777.1,-104.94 2778.61,-98.11"/>
 </g>
 <!-- Charles Fourier -->
 <g id="node21" class="node">
@@ -324,11 +324,11 @@
 </a>
 </g>
 </g>
-<!-- Charles Fourier&#45;&gt;Marx -->
+<!-- Charles Fourier&#45;&gt;karl marx -->
 <g id="edge20" class="edge">
-<title>Charles Fourier&#45;&gt;Marx</title>
-<path fill="none" stroke="black" d="M3161.97,-149.44C3153.11,-147.47 3143.89,-145.56 3135.2,-144 3001.5,-119.95 2841.1,-102.21 2768.83,-94.81"/>
-<polygon fill="black" stroke="black" points="2769.13,-91.32 2758.83,-93.79 2768.42,-98.29 2769.13,-91.32"/>
+<title>Charles Fourier&#45;&gt;karl marx</title>
+<path fill="none" stroke="black" d="M3161.97,-149.44C3153.11,-147.47 3143.89,-145.56 3135.2,-144 3009.46,-121.38 2860.12,-104.35 2782.67,-96.24"/>
+<polygon fill="black" stroke="black" points="2782.99,-92.76 2772.68,-95.21 2782.26,-99.72 2782.99,-92.76"/>
 </g>
 <!-- Baron d&#39;Holbach -->
 <g id="node22" class="node">
@@ -339,11 +339,11 @@
 </a>
 </g>
 </g>
-<!-- Baron d&#39;Holbach&#45;&gt;Marx -->
+<!-- Baron d&#39;Holbach&#45;&gt;karl marx -->
 <g id="edge21" class="edge">
-<title>Baron d&#39;Holbach&#45;&gt;Marx</title>
-<path fill="none" stroke="black" d="M3312.22,-149.32C3302.62,-147.35 3292.63,-145.46 3283.2,-144 3091.82,-114.34 2860.44,-98.6 2769.55,-93.19"/>
-<polygon fill="black" stroke="black" points="2769.62,-89.69 2759.43,-92.6 2769.21,-96.68 2769.62,-89.69"/>
+<title>Baron d&#39;Holbach&#45;&gt;karl marx</title>
+<path fill="none" stroke="black" d="M3312.22,-149.32C3302.62,-147.35 3292.63,-145.46 3283.2,-144 3101.17,-115.79 2882.95,-100.17 2783.86,-94.06"/>
+<polygon fill="black" stroke="black" points="2783.99,-90.56 2773.79,-93.45 2783.56,-97.55 2783.99,-90.56"/>
 </g>
 <!-- Justus von Liebig -->
 <g id="node23" class="node">
@@ -354,11 +354,11 @@
 </a>
 </g>
 </g>
-<!-- Justus von Liebig&#45;&gt;Marx -->
+<!-- Justus von Liebig&#45;&gt;karl marx -->
 <g id="edge22" class="edge">
-<title>Justus von Liebig&#45;&gt;Marx</title>
-<path fill="none" stroke="black" d="M3470.96,-149.18C3461.13,-147.21 3450.88,-145.37 3441.2,-144 3186.79,-107.98 2877.47,-95.53 2769.57,-92.11"/>
-<polygon fill="black" stroke="black" points="2769.58,-88.6 2759.47,-91.79 2769.36,-95.6 2769.58,-88.6"/>
+<title>Justus von Liebig&#45;&gt;karl marx</title>
+<path fill="none" stroke="black" d="M3470.96,-149.18C3461.13,-147.21 3450.88,-145.37 3441.2,-144 3197.62,-109.51 2903.7,-96.63 2784.42,-92.59"/>
+<polygon fill="black" stroke="black" points="2784.22,-89.08 2774.11,-92.25 2783.99,-96.08 2784.22,-89.08"/>
 </g>
 <!-- Ludwig von Westphalen -->
 <g id="node24" class="node">
@@ -369,11 +369,11 @@
 </a>
 </g>
 </g>
-<!-- Ludwig von Westphalen&#45;&gt;Marx -->
+<!-- Ludwig von Westphalen&#45;&gt;karl marx -->
 <g id="edge23" class="edge">
-<title>Ludwig von Westphalen&#45;&gt;Marx</title>
-<path fill="none" stroke="black" d="M3641.84,-149.07C3629.36,-147.15 3616.41,-145.35 3604.2,-144 3283.06,-108.36 2892.68,-95.36 2769.43,-91.98"/>
-<polygon fill="black" stroke="black" points="2769.43,-88.48 2759.34,-91.71 2769.24,-95.48 2769.43,-88.48"/>
+<title>Ludwig von Westphalen&#45;&gt;karl marx</title>
+<path fill="none" stroke="black" d="M3641.84,-149.07C3629.36,-147.15 3616.41,-145.35 3604.2,-144 3295.34,-109.72 2922.44,-96.39 2784.72,-92.41"/>
+<polygon fill="black" stroke="black" points="2784.54,-88.91 2774.44,-92.12 2784.34,-95.9 2784.54,-88.91"/>
 </g>
 <!-- Max Stirner -->
 <g id="node25" class="node">
@@ -384,11 +384,11 @@
 </a>
 </g>
 </g>
-<!-- Max Stirner&#45;&gt;Marx -->
+<!-- Max Stirner&#45;&gt;karl marx -->
 <g id="edge24" class="edge">
-<title>Max Stirner&#45;&gt;Marx</title>
-<path fill="none" stroke="black" d="M3838.79,-149.33C3830.75,-147.22 3822.25,-145.28 3814.2,-144 3607,-110.94 2939.83,-95.29 2769.88,-91.78"/>
-<polygon fill="black" stroke="black" points="2769.72,-88.27 2759.65,-91.57 2769.57,-95.27 2769.72,-88.27"/>
+<title>Max Stirner&#45;&gt;karl marx</title>
+<path fill="none" stroke="black" d="M3838.79,-149.33C3830.75,-147.22 3822.25,-145.28 3814.2,-144 3612.43,-111.8 2974.49,-96.12 2784.26,-92.08"/>
+<polygon fill="black" stroke="black" points="2784.29,-88.58 2774.22,-91.87 2784.14,-95.58 2784.29,-88.58"/>
 </g>
 <!-- François&#45;Noël Babeuf -->
 <g id="node26" class="node">
@@ -399,11 +399,11 @@
 </a>
 </g>
 </g>
-<!-- François&#45;Noël Babeuf&#45;&gt;Marx -->
+<!-- François&#45;Noël Babeuf&#45;&gt;karl marx -->
 <g id="edge25" class="edge">
-<title>François&#45;Noël Babeuf&#45;&gt;Marx</title>
-<path fill="none" stroke="black" d="M3973.8,-149C3962.02,-147.05 3949.76,-145.26 3938.2,-144 3481.19,-94.14 2922.08,-90.8 2769.98,-90.88"/>
-<polygon fill="black" stroke="black" points="2769.74,-87.38 2759.74,-90.89 2769.75,-94.38 2769.74,-87.38"/>
+<title>François&#45;Noël Babeuf&#45;&gt;karl marx</title>
+<path fill="none" stroke="black" d="M3973.8,-149C3962.02,-147.05 3949.76,-145.26 3938.2,-144 3494.9,-95.64 2955.52,-91.04 2784.75,-90.88"/>
+<polygon fill="black" stroke="black" points="2784.51,-87.38 2774.51,-90.88 2784.51,-94.38 2784.51,-87.38"/>
 </g>
 <!-- Voltaire -->
 <g id="node27" class="node">
@@ -414,11 +414,11 @@
 </a>
 </g>
 </g>
-<!-- Voltaire&#45;&gt;Marx -->
+<!-- Voltaire&#45;&gt;karl marx -->
 <g id="edge26" class="edge">
-<title>Voltaire&#45;&gt;Marx</title>
-<path fill="none" stroke="black" d="M4151.77,-149.48C4145.45,-147.27 4138.67,-145.26 4132.2,-144 3860.91,-91.14 2968.77,-90.35 2769.79,-90.85"/>
-<polygon fill="black" stroke="black" points="2769.51,-87.35 2759.51,-90.88 2769.52,-94.35 2769.51,-87.35"/>
+<title>Voltaire&#45;&gt;karl marx</title>
+<path fill="none" stroke="black" d="M4151.77,-149.48C4145.45,-147.27 4138.67,-145.26 4132.2,-144 3867.29,-92.39 3010.42,-90.42 2784.97,-90.82"/>
+<polygon fill="black" stroke="black" points="2784.71,-87.32 2774.72,-90.84 2784.73,-94.32 2784.71,-87.32"/>
 </g>
 <!-- Giambattista Vico -->
 <g id="node28" class="node">
@@ -429,11 +429,11 @@
 </a>
 </g>
 </g>
-<!-- Giambattista Vico&#45;&gt;Marx -->
+<!-- Giambattista Vico&#45;&gt;karl marx -->
 <g id="edge27" class="edge">
-<title>Giambattista Vico&#45;&gt;Marx</title>
-<path fill="none" stroke="black" d="M4257.62,-149.05C4247.26,-147.04 4236.43,-145.22 4226.2,-144 3932.13,-108.92 2975.94,-94.29 2769.66,-91.51"/>
-<polygon fill="black" stroke="black" points="2769.63,-88.01 2759.58,-91.37 2769.54,-95.01 2769.63,-88.01"/>
+<title>Giambattista Vico&#45;&gt;karl marx</title>
+<path fill="none" stroke="black" d="M4257.62,-149.05C4247.26,-147.04 4236.43,-145.22 4226.2,-144 3938.69,-109.71 3018.29,-94.96 2784.57,-91.71"/>
+<polygon fill="black" stroke="black" points="2784.34,-88.21 2774.29,-91.57 2784.24,-95.21 2784.34,-88.21"/>
 </g>
 <!-- Maximilien Robespierre -->
 <g id="node29" class="node">
@@ -444,11 +444,11 @@
 </a>
 </g>
 </g>
-<!-- Maximilien Robespierre&#45;&gt;Marx -->
+<!-- Maximilien Robespierre&#45;&gt;karl marx -->
 <g id="edge28" class="edge">
-<title>Maximilien Robespierre&#45;&gt;Marx</title>
-<path fill="none" stroke="black" d="M4430.71,-148.91C4417.97,-146.97 4404.7,-145.21 4392.2,-144 4062.65,-112.2 2989.44,-94.84 2769.72,-91.57"/>
-<polygon fill="black" stroke="black" points="2769.67,-88.07 2759.62,-91.42 2769.56,-95.07 2769.67,-88.07"/>
+<title>Maximilien Robespierre&#45;&gt;karl marx</title>
+<path fill="none" stroke="black" d="M4430.71,-148.91C4417.97,-146.97 4404.7,-145.21 4392.2,-144 4069.61,-112.87 3034.44,-95.58 2784.77,-91.79"/>
+<polygon fill="black" stroke="black" points="2784.55,-88.29 2774.5,-91.64 2784.44,-95.29 2784.55,-88.29"/>
 </g>
 <!-- William Shakespeare -->
 <g id="node30" class="node">
@@ -459,11 +459,11 @@
 </a>
 </g>
 </g>
-<!-- William Shakespeare&#45;&gt;Marx -->
+<!-- William Shakespeare&#45;&gt;karl marx -->
 <g id="edge29" class="edge">
-<title>William Shakespeare&#45;&gt;Marx</title>
-<path fill="none" stroke="black" d="M4637.23,-148.93C4625.66,-146.96 4613.58,-145.18 4602.2,-144 4228.77,-105.17 3005.55,-93.27 2769.74,-91.31"/>
-<polygon fill="black" stroke="black" points="2769.6,-87.81 2759.57,-91.22 2769.54,-94.81 2769.6,-87.81"/>
+<title>William Shakespeare&#45;&gt;karl marx</title>
+<path fill="none" stroke="black" d="M4637.23,-148.93C4625.66,-146.96 4613.58,-145.18 4602.2,-144 4236.21,-105.94 3053.93,-93.75 2784.99,-91.44"/>
+<polygon fill="black" stroke="black" points="2784.73,-87.93 2774.7,-91.35 2784.67,-94.93 2784.73,-87.93"/>
 </g>
 <!-- Johann Wolfgang von Goethe -->
 <g id="node31" class="node">
@@ -474,11 +474,11 @@
 </a>
 </g>
 </g>
-<!-- Johann Wolfgang von Goethe&#45;&gt;Marx -->
+<!-- Johann Wolfgang von Goethe&#45;&gt;karl marx -->
 <g id="edge30" class="edge">
-<title>Johann Wolfgang von Goethe&#45;&gt;Marx</title>
-<path fill="none" stroke="black" d="M4835.3,-148.85C4820.35,-146.93 4804.82,-145.19 4790.2,-144 4376.27,-110.4 3018.86,-94.15 2769.68,-91.42"/>
-<polygon fill="black" stroke="black" points="2769.68,-87.92 2759.64,-91.31 2769.6,-94.92 2769.68,-87.92"/>
+<title>Johann Wolfgang von Goethe&#45;&gt;karl marx</title>
+<path fill="none" stroke="black" d="M4835.3,-148.85C4820.35,-146.93 4804.82,-145.19 4790.2,-144 4383.81,-111.02 3068.03,-94.75 2784.4,-91.58"/>
+<polygon fill="black" stroke="black" points="2784.4,-88.08 2774.36,-91.47 2784.32,-95.08 2784.4,-88.08"/>
 </g>
 <!-- Claude Adrien Helvétius -->
 <g id="node32" class="node">
@@ -489,11 +489,11 @@
 </a>
 </g>
 </g>
-<!-- Claude Adrien Helvétius&#45;&gt;Marx -->
+<!-- Claude Adrien Helvétius&#45;&gt;karl marx -->
 <g id="edge31" class="edge">
-<title>Claude Adrien Helvétius&#45;&gt;Marx</title>
-<path fill="none" stroke="black" d="M5078.02,-148.91C5064.86,-146.94 5051.13,-145.17 5038.2,-144 4572.39,-101.84 3037.61,-92.5 2770.13,-91.18"/>
-<polygon fill="black" stroke="black" points="2769.76,-87.68 2759.75,-91.13 2769.73,-94.68 2769.76,-87.68"/>
+<title>Claude Adrien Helvétius&#45;&gt;karl marx</title>
+<path fill="none" stroke="black" d="M5078.02,-148.91C5064.86,-146.94 5051.13,-145.17 5038.2,-144 4580.35,-102.56 3089.71,-92.83 2784.93,-91.26"/>
+<polygon fill="black" stroke="black" points="2784.61,-87.75 2774.59,-91.2 2784.57,-94.75 2784.61,-87.75"/>
 </g>
 <!-- François Guizot -->
 <g id="node33" class="node">
@@ -504,11 +504,11 @@
 </a>
 </g>
 </g>
-<!-- François Guizot&#45;&gt;Marx -->
+<!-- François Guizot&#45;&gt;karl marx -->
 <g id="edge32" class="edge">
-<title>François Guizot&#45;&gt;Marx</title>
-<path fill="none" stroke="black" d="M5280.65,-148.92C5271.29,-146.92 5261.48,-145.14 5252.2,-144 4995.91,-112.59 3071.48,-94.07 2769.91,-91.35"/>
-<polygon fill="black" stroke="black" points="2769.51,-87.85 2759.48,-91.26 2769.45,-94.85 2769.51,-87.85"/>
+<title>François Guizot&#45;&gt;karl marx</title>
+<path fill="none" stroke="black" d="M5280.65,-148.92C5271.29,-146.92 5261.48,-145.14 5252.2,-144 4999.78,-113.06 3129.11,-94.63 2784.64,-91.48"/>
+<polygon fill="black" stroke="black" points="2784.46,-87.98 2774.43,-91.39 2784.4,-94.98 2784.46,-87.98"/>
 </g>
 <!-- Moses Hess -->
 <g id="node34" class="node">
@@ -519,11 +519,11 @@
 </a>
 </g>
 </g>
-<!-- Moses Hess&#45;&gt;Marx -->
+<!-- Moses Hess&#45;&gt;karl marx -->
 <g id="edge33" class="edge">
-<title>Moses Hess&#45;&gt;Marx</title>
-<path fill="none" stroke="black" d="M5427.1,-149.06C5419.28,-147 5411.03,-145.15 5403.2,-144 5131.74,-104.14 3081.47,-92.7 2769.85,-91.18"/>
-<polygon fill="black" stroke="black" points="2769.52,-87.68 2759.51,-91.13 2769.49,-94.68 2769.52,-87.68"/>
+<title>Moses Hess&#45;&gt;karl marx</title>
+<path fill="none" stroke="black" d="M5427.1,-149.06C5419.28,-147 5411.03,-145.15 5403.2,-144 5135.68,-104.71 3140.62,-93.04 2784.51,-91.25"/>
+<polygon fill="black" stroke="black" points="2784.47,-87.75 2774.45,-91.21 2784.44,-94.75 2784.47,-87.75"/>
 </g>
 </g>
 </svg>

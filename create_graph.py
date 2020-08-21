@@ -2,11 +2,11 @@ import requests
 import wikipedia
 from bs4 import BeautifulSoup
 import pydot
-
+ 
 def create_graph(input_name):
   link_name = input_name.replace(" ", "_")
 
-  graph = pydot.Dot(graph_type="digraph")
+  graph = pydot.Dot(graph_type="digraph", rankdir="LR")
   root = input_name
 
   influences_nodes = []
@@ -58,6 +58,8 @@ def create_graph(input_name):
   for i in influenced_nodes:
     graph.add_node(pydot.Node(i[0], URL="https://en.wikipedia.org" + i[1]))
     graph.add_edge(pydot.Edge(root, i[0]))
-
+  print(graph)
   graph.write_svg(f"./static/img/{link_name}.svg")
   return link_name
+if __name__ == '__main__':
+    create_graph("Michel Foucault")
