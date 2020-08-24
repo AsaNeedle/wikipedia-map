@@ -9,7 +9,7 @@
       How to Win Philosophy and Influence People
     </h1>
   </div>
-  <form class="form-group" text-align=center action="/action" method="POST">
+  <form class="form-group" text-align=center action="/" method="POST">
     <label class="lead" style="font-family: 'Fira Sans', Sans-Serif; font-Size: 15px;" for="thinker-input">
       Enter the name of an inspiring philosopher here to get their influences and who they influenced. E.g. Michel
       Foucault or Frantz Fanon
@@ -17,6 +17,11 @@
     <input type="text" class="form-control input-lg" id="thinker-input" name="thinker"
       placeholder="Enter a thinker's name">
   </form>
+  {% if svg %}
+  <p class='mt-5 ml-5'> This is the map of those who influenced or were influenced by {{ thinker }}. Arrows indicate
+    direction of influence. Click on names for more information. </p>
+  {{ svg | safe }}
+  {% endif %}
   {% if error %}
   <div class="error">{{error}}</div>
   {% elif disambiguation_options %}
