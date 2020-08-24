@@ -2,7 +2,8 @@
 {% include 'nav.html' %}
 {% block content %}
 {% if thinker %}
-<p class='mt-5 ml-5'> This is the map of influences for {{ thinker }} </p>
+<p class='mt-5 ml-5'> This is the map of those who influenced or were influenced by {{ thinker }}. Arrows indicate
+  direction of influence. Click on names for more information. </p>
 {{ svg | safe }}
 <!-- <img src="/static/img/{{thinker_underscore}}.svg" /> -->
 {% else %}

@@ -1,13 +1,22 @@
 {% extends 'base.html' %}
+{% set active_page = "home" %}
 
 {% include 'nav.html' %}
 {% block content %}
-<main role="main" class="d-flex container mt-5">
+<main role="main" class="d-flex flex-column container mt-5">
   <div class="starter-template">
     <h1 style="font-family: 'Cormorant Garamond', Serif; font-size: 55px;">
       How to Win Philosophy and Influence People
     </h1>
   </div>
+  <form class="form-group" text-align=center action="/action" method="POST">
+    <label class="lead" style="font-family: 'Fira Sans', Sans-Serif; font-Size: 15px;" for="thinker-input">
+      Enter the name of an inspiring philosopher here to get their influences and who they influenced. E.g. Michel
+      Foucault or Frantz Fanon
+    </label></br>
+    <input type="text" class="form-control input-lg" id="thinker-input" name="thinker"
+      placeholder="Enter a thinker's name">
+  </form>
   {% if error %}
   <div class="error">{{error}}</div>
   {% elif disambiguation_options %}
@@ -18,12 +27,5 @@
   {% endfor %}
   </ul>
   {% endif %}
-  <form class="form-group" text-align=center action="/action" method="POST">
-    <label class="lead" style="font-family: 'Fira Sans', Sans-Serif; font-Size: 15px;" for="thinker-input">
-      Enter the name of an inspiring philosopher here to get their influences and who they influenced.
-    </label></br>
-    <input type="text" class="form-control input-lg" id="thinker-input" name="thinker"
-      placeholder="Enter a thinker's name">
-  </form>
 </main>
 {% endblock %}

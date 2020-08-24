@@ -1,9 +1,10 @@
 from flask import Flask, render_template, request
 from create_graph import create_graph
 import wikipedia
+import sys
 app = Flask(__name__)
 
-@app.route('/')
+@app.route('/', methods=['GET', 'POST'])
 def main():
     return render_template("main.html")
 @app.route('/about')
@@ -16,9 +17,9 @@ def hello_world(name=None):
 def action():
     thinker = request.form.get('thinker')
     try:
-        thinker_underscore = create_graph(thinker)
+        thinker_underscore, title = create_graph(thinker)
         with open("static/img/%s.svg" % thinker_underscore) as svg:
-            return render_template('action.html', thinker=thinker, svg=svg.read(), thinker_underscore=thinker_underscore)
+            return render_template('action.html', thinker=title, svg=svg.read())
     except wikipedia.exceptions.DisambiguationError as e:
         return render_template('main.html', disambiguation_options=e.options)
     except Exception as e:
