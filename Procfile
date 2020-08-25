@@ -1,2 +1,2 @@
 web: gunicorn app:app
-python-3.8.2
+python-3.7.3
