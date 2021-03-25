@@ -1,3 +1,1 @@
-web: gunicorn 
-app: app
-python-3.7.3
+web: gunicorn app:app
