@@ -2,9 +2,6 @@ import requests
 import wikipedia
 from bs4 import BeautifulSoup
 import pydot
-
-import wptools
-
  
 def create_graph(input_name):
   print(f'input name{input_name}')
