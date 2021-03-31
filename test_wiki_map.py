@@ -12,12 +12,12 @@ class TestGetBeautifulSoup:
 class TestGetTitleFromSoup:
   def test_basic(self):
     f = open("wikipedia.txt", "r")
-    soup = BeautifulSoup(f.read(), features="lxml")
+    soup = BeautifulSoup(f.read(), "html.parser")
     assert get_title_from_soup(soup) == "Michel Foucault"
 class TestGetInfluences:
   def test_basic(self):
     f = open("wikipedia.txt", "r")
-    soup = BeautifulSoup(f.read(), features="lxml")
+    soup = BeautifulSoup(f.read(), "html.parser")
     infobox = soup.find("table", "infobox")
     foucault_influences_hrefs = [
       ("Louis Althusser", "/wiki/Louis_Althusser"),
@@ -29,7 +29,7 @@ class TestGetInfluences:
 class TestGetInfluenced:
   def test_basic(self):
     f = open("wikipedia.txt", "r")
-    soup = BeautifulSoup(f.read(), features="lxml")
+    soup = BeautifulSoup(f.read(), "html.parser")
     infobox = soup.find("table", "infobox")
     foucault_influenced_hrefs = [
       ("Edward Said", "/wiki/Edward_Said"),

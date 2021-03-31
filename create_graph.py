@@ -48,7 +48,7 @@ def get_beautiful_soup(input_name):
     else:
       search_name = input_name
     response = wikipedia.WikipediaPage(search_name)
-    soup = BeautifulSoup(response.html(), features="lxml")
+    soup = BeautifulSoup(response.html(), "html.parser")
     return soup
   except wikipedia.DisambiguationError as e:
     return e.options
