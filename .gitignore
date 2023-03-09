@@ -1,5 +1,0 @@
-.gitignore
-/venv
-__pycache__
-/static/img
-.DS_STORE
