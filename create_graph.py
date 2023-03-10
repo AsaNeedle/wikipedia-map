@@ -42,12 +42,8 @@ def get_influences(infobox):
 
 def get_beautiful_soup(input_name):
   try: 
-    suggested_input = wikipedia.suggest(input_name)
-    if suggested_input != None:
-      search_name = suggested_input
-    else:
-      search_name = input_name
-    response = wikipedia.WikipediaPage(search_name)
+    name = wikipedia.search(input_name)[0]
+    response = wikipedia.WikipediaPage(name)
     soup = BeautifulSoup(response.html(), "html.parser")
     return soup
   except wikipedia.DisambiguationError as e:

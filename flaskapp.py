@@ -28,7 +28,7 @@ def action():
             with open(f"./static/img/{link_name}.svg") as svg:
                 return render_template('action.html', thinker=title, svg=svg.read())
     except Exception as e:
-        print(e)
+        print(f'Top Level Exception: {e}')
         return render_template('main.html', error="Sorry 🤷‍♂️, I don't know them. Try someone else!")
 
 if __name__ == '__main__':
